@@ -2,4 +2,5 @@ Hello.
 Wlcome to void.
 i have completed my ssc in 2022.
 I'm a student
-i started programming in 2022
+I started programming in 2022
+Logo alignment is centred.
